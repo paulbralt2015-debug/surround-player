@@ -1,3 +1,4 @@
+#include <SDL.h>           // ← DOIT ÊTRE EN PREMIER !
 #include "player.h"
 #include <iostream>
 
